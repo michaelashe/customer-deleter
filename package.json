@@ -21,6 +21,6 @@
     "@google-cloud/pubsub": "^0.20.1",
     "chalk-animation": "^1.6.0",
     "cli-highlight": "^2.0.0",
-    "node-fetch": "^2.2.0"
+    "node-fetch": "^2.6.7"
   }
 }
